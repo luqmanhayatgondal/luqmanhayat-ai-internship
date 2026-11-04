@@ -1,2 +1,3 @@
 # luqmanhayat-ai-internship
-My first github reppository.
+My first git repository.
+Author-luqmanhayat
